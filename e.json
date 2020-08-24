@@ -1,12 +1,12 @@
 {
-    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+    "how-to-implement": "",
     "info": {
-        "url_png_icon_64x64": "http(s) url to pool icon",
-        "url_png_logo": "http(s) url to pool logo",
-        "location": "London, England",
+        "url_png_icon_64x64": "",
+        "url_png_logo": "https://static.wixstatic.com/media/9f89c8_ad9996895b5945bfa36a23f3766104f8~mv2.png",
+        "location": "Lisbon, Portugal",
         "social": {
-            "twitter_handle": "AdapoolsO",
-            "telegram_handle": "adapools_ops",
+            "twitter_handle": "https://twitter.com/ADABreathes",
+            "telegram_handle": "https://t.me/joinchat/NVoMTRlVIzJMG9cVlKSMsg",
             "facebook_handle": "",
             "youtube_handle": "",
             "twitch_handle": "",
@@ -14,29 +14,27 @@
             "github_handle": ""
         },
         "company": {
-            "name": "Company Name",
-            "addr": "Street, Number",
-            "city": "London",
-            "country": "England",
-            "company_id": "123456789",
-            "vat_id": "GB123456789"
+            "name": "",
+            "addr": "",
+            "city": "",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
         },
         "about": {
-            "me": "...",
-            "server": "Raspberry Pi Hosted at my Home in London 100MB up/down, solar energy.",
-            "company": "..."
+            "me": "An activist stake pool. Giving back to support humanitarian and environmental causes. Let's invest in our future together!"
+            "server": "Cloud environment",
+            "company": ""
         },
-        "rss": "http(s) url to valid RSS feed"
+        "rss": ""
     },
     "my-pool-ids": {
-        "0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
-        "1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
+        "0": "80cb48c2953a78d25f69dbcea305fbcce0c520c25d401cd75a259cf1"
     },
     "when-satured-then-recommend": {
-        "0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
-        "1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
+        "0": "80cb48c2953a78d25f69dbcea305fbcce0c520c25d401cd75a259cf1"
     },
     "telegram-admin-handle": {
-        "0": "mnmnmnmnnmn"
+        "0": ""
     }
 }
